@@ -1,1 +1,1 @@
-export const api_URL = 'https://raw.githubusercontent.com/Shubham73-dev/list-api/main/data.json'
+export const api_URL = 'https://raw.githubusercontent.com/Shubham73-dev/data_2/main/data_2.json'
